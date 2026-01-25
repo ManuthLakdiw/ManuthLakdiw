@@ -257,8 +257,8 @@ const manuth = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontAlignY=70&animation=twinkling" width="100%">
 
-**💙 Crafted with passion by [Manuth Lakdiv](https://github.com/ManuthLakdiw)**
+**💙 Crafted with passion by [Manuth Lakdiw](https://github.com/ManuthLakdiw)**
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
+
 
 </div>
