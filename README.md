@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" /> Hey There, I'm Manuth Lakdiw
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=80&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Architect+%E2%9A%9B%EF%B8%8F;Spring+Boot+Expert+%F0%9F%8D%83;React+Native+Enthusiast+%F0%9F%93%B1;Microservices+Builder+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=80&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%E2%9A%9B%EF%B8%8F;Spring+Boot+Expert+%F0%9F%8D%83;React+Native+Enthusiast+%F0%9F%93%B1;Microservices+Builder+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
