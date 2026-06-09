@@ -1,266 +1,448 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          HEADER BANNER                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Manuth%20Lakdiw&fontSize=58&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%20%7C%20%20Backend%20Systems%20%20%7C%20%20Full%20Stack%20%20%7C%20%20Microservices&descSize=15&descAlignY=60&descColor=8b949e" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          TYPING ANIMATION                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=1F6FEB&center=true&vCenter=true&random=false&width=580&height=40&lines=Designing+systems+built+to+scale+and+last.;Java+%7C+Spring+Boot+%7C+Microservices+%7C+MERN;From+architecture+to+deployment+%E2%80%94+end+to+end.;Clean+code.+Clear+boundaries.+Scalable+systems." alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          SOCIAL LINKS                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" /> Hey There, I'm Manuth Lakdiw
+[![Portfolio](https://img.shields.io/badge/-manuthlakdiw.dev-0d1117?style=flat-square&logo=google-chrome&logoColor=1f6feb&labelColor=161b22)](https://manuthlakdiw.dev)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://linkedin.com/in/manuth-lakdiw)&nbsp;
+[![Email](https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:manuthlakdiv2006@gmail.com)&nbsp;
+[![YouTube](https://img.shields.io/badge/-YouTube-0d1117?style=flat-square&logo=youtube&logoColor=FF0000&labelColor=161b22)](https://youtube.com/@ManuthLakdiw)&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=e6edf3&labelColor=161b22)](https://github.com/ManuthLakdiw)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-0d1117?style=flat-square&logo=buymeacoffee&logoColor=FFDD00&labelColor=161b22)](https://buymeacoffee.com/ManuthLakdiw)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=80&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%E2%9A%9B%EF%B8%8F;Spring+Boot+Expert+%F0%9F%8D%83;React+Native+Enthusiast+%F0%9F%93%B1;Microservices+Builder+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-### 🌟 Crafting Digital Experiences | Building Scalable Solutions | Learning Every Day
 
 </div>
 
+<br/>
+
 ---
 
-<img align="right" alt="Coding GIF" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br/>
 
-## 🎯 Current Focus
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                      PROFESSIONAL INTRODUCTION                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-```javascript
-const manuth = {
-    currentProject: "TechScribe - Tech Blog Platform",
-    learning: ["React Native", "Microservices", "System Design"],
-    collaborating: ["React", "Spring Boot", "NestJS", "Express.js"],
-    askMeAbout: ["Java", "MERN", "Tailwind", "Framer Motion"],
-    funFact: "I create ASCII art from videos! 🎨",
-    goals2026: "DevOps & Cloud Architecture"
-};
-```
+<img align="right" src="https://skillicons.dev/icons?i=java,spring,ts,react,nodejs,docker,kubernetes,mongodb&theme=dark&perline=4" width="200"/>
+
+### Software Engineer — Full Stack
+
+I design and build **scalable software systems** — from RESTful API architecture and microservices orchestration to full-stack web platforms and cross-platform mobile applications.
+
+My primary domain is **enterprise backend engineering** with Java and Spring Boot, complemented by deep expertise across the MERN ecosystem. I approach software not just as code to write, but as **systems to architect** — with intentional boundaries, security-first design, and long-term maintainability in mind.
+
+I apply **SOLID principles**, established design patterns, and modern SDLC practices (Agile/Scrum, CI/CD, containerization) to deliver software that works reliably in production — not just in development.
+
+**Currently seeking:** Full Stack Software Engineering Internship or Junior SE role.
 
 <br clear="right"/>
 
+<br/>
+
 ---
 
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                            ABOUT ME                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+### `$ whoami`
+
+```yaml
+name       : Manuth Lakdiw
+location   : Matara, Sri Lanka 🇱🇰
+education  :
+  - Higher Diploma in Software Engineering (GDSE) — IJSE, Sri Lanka [2024–2026]
+  - BSc (Hons) Computer Science — SLIIT City University [Commencing 2026]
+expertise  :
+  - Java, Spring Boot & Spring Cloud (Microservices)
+  - MERN Stack — MongoDB, Express.js, React.js, Node.js
+  - RESTful API Design & Secure Authentication (JWT / RBAC / Firebase)
+  - Docker, Kubernetes, CI/CD Pipelines
+  - Cross-Platform Mobile (React Native + Expo)
+methodology: Agile · Scrum · TDD · Clean Architecture · Git-Flow
+status     : Open to Internship & Entry-Level Opportunities ✅
+```
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         TECHNICAL SKILLS                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+### Technical Skills
+
+#### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        TECHNOLOGY STACK                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+### Technology Stack
+
+<table>
+<tr>
+<td valign="top"><b>⚙️ Backend</b></td>
+<td>
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>🌐 Frontend</b></td>
+<td>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>📱 Mobile</b></td>
+<td>
+
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>🗄️ Data Layer</b></td>
+<td>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>☁️ DevOps & Cloud</b></td>
+<td>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>🔧 Tooling</b></td>
+<td>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         FEATURED PROJECTS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+### Featured Projects
+
+> Selected work demonstrating architectural thinking, engineering depth, and end-to-end delivery.
+
+<br/>
+
+**🤖 TechScribe — AI-Powered Technical Blogging Platform**
+
+`MongoDB` `Express.js` `React.js` `Node.js` `TypeScript` `Redux Toolkit` `JWT` `Cloudinary`
+
+A production-grade MERN-stack platform for creating and consuming AI-enhanced technical content. Architected a secure RESTful API with **JWT-based Role-Based Access Control (RBAC)**, designed a normalized MongoDB schema for content and user relationships, and delivered a high-performance frontend with Redux Toolkit state management and Framer Motion animations.
+
+- Implemented multi-role auth with full JWT token lifecycle management (issue, verify, refresh, revoke)
+- Integrated Cloudinary CDN for real-time media upload, transformation, and delivery
+- Designed Redux slice architecture to eliminate prop-drilling across a complex component tree
+
+[![Repo](https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=e6edf3)](https://github.com/ManuthLakdiw)
+
+---
+
+**🚂 RailLanka Pro — Railway Operations Management System**
+
+`Java` `Spring Boot` `Hibernate ORM` `MySQL` `Tailwind CSS` `Fetch API`
+
+An enterprise-grade operations platform automating train scheduling and digital ticketing for Sri Lanka's railway domain. Engineered a robust **Spring Boot + Hibernate ORM backend** with a layered MVC architecture, designed an optimized relational schema, and built a responsive UI with real-time Fetch API data rendering.
+
+- Automated scheduling workflows that previously required manual administrative overhead
+- Applied Hibernate second-level caching and optimized HQL for high-read query performance
+- Built a complete digital ticket reservation system with booking state management
+
+[![Repo](https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=e6edf3)](https://github.com/ManuthLakdiw)
+
+---
+
+**🌿 AGMS — Automated Greenhouse Management System**
+
+`Java` `Spring Boot` `Spring Cloud` `Eureka` `API Gateway` `WebFlux` `OpenFeign` `JWT` `MySQL`
+
+A production-grade **microservices architecture** for smart greenhouse automation, built on the full Spring Cloud ecosystem. Integrated a reactive external IoT API via **Spring WebFlux** for real-time telemetry ingestion, with OpenFeign handling typed inter-service HTTP communication and an automated rule engine driving device control decisions.
+
+- Deployed Eureka service registry with API Gateway for dynamic routing and load balancing
+- Built a reactive data pipeline handling IoT telemetry streams without blocking I/O
+- Designed a centralized Config Server for environment-agnostic configuration management
+
+[![Repo](https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=e6edf3)](https://github.com/ManuthLakdiw)
+
+---
+
+**🎫 Enterprise IT Ticketing System**
+
+`Next.js` `NestJS` `TypeScript` `MySQL` `Prisma` `Docker` `Watchtower` `CI/CD`
+
+A fully containerized enterprise support platform with automated DevOps deployment. Built a scalable **NestJS modular backend** with JWT authentication, **Prisma ORM** for type-safe database access, and a responsive Next.js frontend — containerized via Docker with a Watchtower-integrated CI/CD pipeline enabling zero-downtime automated deployments.
+
+- Containerized all services with Docker Compose for environment-consistent deployment
+- Integrated Watchtower for automated container image updates on each CI/CD pipeline trigger
+- Enforced end-to-end type safety using TypeScript across both frontend and backend
+
+[![Repo](https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=e6edf3)](https://github.com/ManuthLakdiw)
+
+---
+
+**📓 Memoria — Digital Journal & Mindfulness Application**
+
+`React Native` `Expo` `NativeWind` `Firebase Auth` `Firestore` `Moti`
+
+A cross-platform mobile application built for daily journaling and mindfulness tracking. Engineered with **React Native + NativeWind** for a consistent iOS and Android experience, fluid **Moti** micro-animations for enhanced UX, and **Firebase Auth + Firestore** for secure, real-time data synchronization across devices.
+
+- Achieved full iOS and Android compatibility from a single codebase using Expo
+- Implemented real-time Firestore sync ensuring zero data loss on device switch
+- Designed an offline-tolerant data architecture with Firestore's local persistence
+
+[![Repo](https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=e6edf3)](https://github.com/ManuthLakdiw)
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                  SOFTWARE ENGINEERING COMPETENCIES                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+### Software Engineering Competencies
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Architecture & Design**
+- Microservices Architecture (Spring Cloud)
+- RESTful API Design & Contract-First Development
+- MVC, Layered & Hexagonal Architectural Patterns
+- Domain-Driven Design Principles
+
+**Security & Authentication**
+- JWT Token Lifecycle & RBAC Implementation
+- OAuth2 / Firebase Authentication
+- API Security — Input Validation, Rate Limiting, HTTPS
+- Principle of Least Privilege in System Design
+
+**Data Engineering**
+- Relational Schema Design & Query Optimization
+- NoSQL Document Modelling (MongoDB)
+- ORM Abstraction (Hibernate, Prisma, Mongoose)
+- Real-Time & Reactive Data Streams (WebFlux)
+
+</td>
+<td valign="top" width="50%">
+
+**Software Craftsmanship**
+- SOLID Principles & Clean Code Practices
+- Design Patterns (GoF — Factory, Strategy, Observer)
+- Object-Oriented Analysis & Design (OOAD)
+- Code Review Culture & Technical Documentation
+
+**DevOps & Deployment**
+- Docker Containerization & Multi-Stage Builds
+- Kubernetes Orchestration & Service Mesh Concepts
+- CI/CD Pipeline Automation (GitHub Actions, Watchtower)
+- Cloud Deployment — Vercel, Firebase, Convex
+
+**Methodology & Collaboration**
+- Agile / Scrum — Sprint Planning & Retrospectives
+- Git Branching Strategies (Git-Flow)
+- API Testing & Contract Validation (Postman)
+- Technical Leadership (Genesys Hackathon — 2024)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        CURRENT LEARNING GOALS                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+### Current Learning Goals
+
+| Area | Goal | Status |
+|------|------|--------|
+| Architecture | Advanced System Design & Distributed Systems Patterns | 🔄 In Progress |
+| DevOps | Kubernetes Advanced Orchestration & Helm Chart Authoring | 🔄 In Progress |
+| Quality Engineering | Test-Driven Development — JUnit 5, Mockito, Jest | 🔄 In Progress |
+| Cloud | AWS Solutions Architect — Associate Certification | 📅 Planned Q3 2025 |
+| AI Engineering | LLM API Integration & Prompt Engineering for Production Systems | 🔄 In Progress |
+| Backend | Advanced Go — Gin Framework & Concurrent System Patterns | 📅 Planned |
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         CAREER OBJECTIVES                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+### Career Objectives
+
+I am actively seeking a **Full Stack Software Engineering Internship** or **Junior Software Engineer** position within a team where engineering excellence is a standard, not an afterthought.
+
+My goal is to contribute to the design and delivery of real-world production systems — applying my architectural thinking, security-first mindset, and full-stack capability while growing under the mentorship of experienced engineers.
+
+**I bring:**
+
+| Dimension | Demonstrated Through |
+|-----------|----------------------|
+| Backend Engineering Depth | Spring Cloud microservices with Eureka, Gateway, WebFlux, OpenFeign |
+| Full-Stack Product Ownership | 5 complete, independently deployed projects across web and mobile |
+| Security-First Design | JWT RBAC and Firebase Auth implemented across multiple production-grade systems |
+| DevOps Awareness | Docker, Kubernetes, and Watchtower CI/CD integrated into delivered projects |
+| Leadership Under Pressure | 4-person team lead — 18-hour Genesys Hackathon, IJSE 2024 |
+| Polyglot Engineering | Production experience across Java, TypeScript, JavaScript, Python, and Go |
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                           GITHUB STATS                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+### GitHub Stats
+
 <div align="center">
-
-## 🌐 Let's Connect & Collaborate
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/manuthlakdiw)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/manuthlakdiw)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@manuthlakdiw)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuthlakdiv2006@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manuthlakdiw.dev/)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ManuthLakdiw&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=8b949e&dates=8b949e" height="175"/>
 
 </div>
 
----
-
-## 🛠️ Technology Arsenal
-
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-<br>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Java EE](https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases & ORMs</b></summary>
-<br>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br>
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>💻 IDEs & Code Editors</b></summary>
-<br>
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Geany](https://img.shields.io/badge/Geany-1C1C1C?style=for-the-badge)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-
-</details>
-
-<details>
-<summary><b>🎨 Design & Creative Tools</b></summary>
-<br>
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-1B72BE?style=for-the-badge&logo=affinity-designer&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🧰 Tools & Others</b></summary>
-<br>
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ManuthLakdiw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats"/>
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=ManuthLakdiw&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManuthLakdiw&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=1f6feb&point=e6edf3&area=true&area_color=1f6feb" width="95%"/>
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuthLakdiw&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ManuthLakdiw&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
-</div>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManuthLakdiw&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="100%">
+<br/>
 
 ---
 
-## 🏆 GitHub Achievements
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        CONTACT INFORMATION                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+### Contact
+
+> Open to internship opportunities, engineering collaborations, and technical conversations.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ManuthLakdiw&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+| | |
+|---|---|
+| 🌐 Portfolio | [manuthlakdiw.dev](https://manuthlakdiw.dev) |
+| 💼 LinkedIn | [linkedin.com/in/manuth-lakdiw](https://linkedin.com/in/manuth-lakdiw) |
+| 📧 Email | [manuthlakdiv2006@gmail.com](mailto:manuthlakdiv2006@gmail.com) |
+| 🎥 YouTube | [youtube.com/@ManuthLakdiw](https://youtube.com/@ManuthLakdiw) |
+| 📍 Location | Matara, Sri Lanka |
 
 </div>
 
+<br/>
+
 ---
 
-## 🔥 Contribution Streak
-
 <div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManuthLakdiw/ManuthLakdiw/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManuthLakdiw/ManuthLakdiw/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ManuthLakdiw/ManuthLakdiw/output/github-snake.svg">
-</picture>
-
+  <img src="https://komarev.com/ghpvc/?username=ManuthLakdiw&label=Profile+Views&color=1f6feb&style=flat-square" alt="Profile Views"/>
 </div>
 
----
-
-## 💡 Random Dev Wisdom
+<br/>
 
 <div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-
-</div>
-
----
-
-## 🌟 Top Contributed Repositories
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=ManuthLakdiw&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
-
-</div>
-
----
-
-## 📈 Profile Summary
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManuthLakdiw&theme=tokyonight)
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManuthLakdiw&theme=tokyonight" width="49%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManuthLakdiw&theme=tokyonight" width="49%">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManuthLakdiw&theme=tokyonight" width="49%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ManuthLakdiw&theme=tokyonight&utcOffset=5.5" width="49%">
-
-</div>
-
----
-
-<div align="center">
-
-## 💰 Support My Journey
-
-**If you like my work, consider buying me a coffee! ☕**
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/manuthlakdiw)
-
----
-
-### 👁️ Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/ManuthLakdiw/count.svg)
-[![](https://visitcount.itsvg.in/api?id=ManuthLakdiw&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontAlignY=70&animation=twinkling" width="100%">
-
-**💙 Crafted with passion by [Manuth Lakdiw](https://github.com/ManuthLakdiw)**
-
-
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=120&section=footer"/>
 </div>
